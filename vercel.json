@@ -1,0 +1,12 @@
+{
+  "crons": [
+    {
+      "path": "/api/mo_topic",
+      "schedule": "20 13 * * *"
+    },
+    {
+      "path": "/api/dong_topic",
+      "schedule": "15 13 * * *"
+    }
+  ]
+}
