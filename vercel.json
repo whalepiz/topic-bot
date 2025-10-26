@@ -2,11 +2,11 @@
   "crons": [
     {
       "path": "/api/mo_topic",
-      "schedule": "30 14 * * *"
+      "schedule": "55 14 * * *"
     },
     {
       "path": "/api/dong_topic",
-      "schedule": "20 14 * * *"
+      "schedule": "45 14 * * *"
     }
   ]
 }
