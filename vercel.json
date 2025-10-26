@@ -1,31 +1,25 @@
 {
   "crons": [
-    // Lịch MỞ TẤT CẢ (Lúc 07:05 AM VN / 00:05 UTC)
     {
       "path": "/api/mo_topic",
       "schedule": "5 0 * * *"
     },
-    // Lịch ĐÓNG Topic 1 (09:30 AM VN / 02:30 UTC)
     {
       "path": "/api/dong_topic",
       "schedule": "30 2 * * *"
     },
-    // Lịch ĐÓNG Topic 2 (11:30 AM VN / 04:30 UTC)
     {
       "path": "/api/dong_topic",
       "schedule": "30 4 * * *"
     },
-    // Lịch ĐÓNG Topic 3 (13:30 PM VN / 06:30 UTC)
     {
       "path": "/api/dong_topic",
       "schedule": "30 6 * * *"
     },
-    // Lịch ĐÓNG Topic 4 (15:30 PM VN / 08:30 UTC)
     {
       "path": "/api/dong_topic",
       "schedule": "30 8 * * *"
     },
-    // Lịch ĐÓNG Topic 5 (17:30 PM VN / 10:30 UTC)
     {
       "path": "/api/dong_topic",
       "schedule": "30 10 * * *"
